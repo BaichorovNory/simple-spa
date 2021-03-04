@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-spa/static/css/main.1a487075.chunk.css",
+    "main.js": "/simple-spa/static/js/main.274f9d80.chunk.js",
+    "main.js.map": "/simple-spa/static/js/main.274f9d80.chunk.js.map",
+    "runtime-main.js": "/simple-spa/static/js/runtime-main.0da6354b.js",
+    "runtime-main.js.map": "/simple-spa/static/js/runtime-main.0da6354b.js.map",
+    "static/js/2.4eb7d7cd.chunk.js": "/simple-spa/static/js/2.4eb7d7cd.chunk.js",
+    "static/js/2.4eb7d7cd.chunk.js.map": "/simple-spa/static/js/2.4eb7d7cd.chunk.js.map",
+    "index.html": "/simple-spa/index.html",
+    "static/css/main.1a487075.chunk.css.map": "/simple-spa/static/css/main.1a487075.chunk.css.map",
+    "static/js/2.4eb7d7cd.chunk.js.LICENSE.txt": "/simple-spa/static/js/2.4eb7d7cd.chunk.js.LICENSE.txt",
+    "static/media/ZKZx.4ace5f17.gif": "/simple-spa/static/media/ZKZx.4ace5f17.gif",
+    "static/media/About.css": "/simple-spa/static/media/react.2355652e.jpeg",
+    "static/media/spa-1.924d9c28.jpg": "/simple-spa/static/media/spa-1.924d9c28.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0da6354b.js",
+    "static/js/2.4eb7d7cd.chunk.js",
+    "static/css/main.1a487075.chunk.css",
+    "static/js/main.274f9d80.chunk.js"
+  ]
+}
