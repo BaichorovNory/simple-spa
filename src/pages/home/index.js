@@ -1,9 +1,7 @@
 import React from 'react';
-
 import About from '../../components/About/About';
 import PortfolioItem from '../../components/PortfolioItem/PortfolioItem';
 import ContactForm from '../../components/ContactForm/ContactForm';
-
 import works from '../../works';
 
 class HomePage extends React.Component {
@@ -28,13 +26,10 @@ class HomePage extends React.Component {
             <div>
                 <About title='React-разработчик Норий Байчоров'>
                     <p>
-                        Разрабатываю на лучшей UI библиотеке для JS
-                        <br />
-                        самые лучшие SPA!
+                        Разрабатываю на лучшей UI библиотеке лучшие SPA!
                     </p>
-                    <p>С удовольствием и вам что-нибудь разработаю )</p>
+                    <p>Могу и вам что-нибудь разработать )</p>
                 </About>
-
                 <div className='portfolio'>
                     <div className='container'>
                         {works.map((work) => (
@@ -42,7 +37,6 @@ class HomePage extends React.Component {
                         ))}
                     </div>
                 </div>
-
                 <div className='contacts'>
                     <div className='container'>
                         {this.state.closed ? (
@@ -66,5 +60,4 @@ class HomePage extends React.Component {
         );
     }
 }
-
 export default HomePage;
