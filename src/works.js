@@ -17,5 +17,14 @@ export default [
         description: 'Второй проект Search Film',
         link: 'https://github.com/BaichorovNory/Search-Film',
         stack: ['react', 'axios']
+    },
+
+    {
+        id: 'spa-3',
+        title: 'SPA #3',
+        screenshot: react,
+        description: 'Третий проект Food Project',
+        link: 'https://github.com/BaichorovNory/Food-project',
+        stack: ['react', 'axios', 'materialize', 'react-hooks']
     }
-];
+]
